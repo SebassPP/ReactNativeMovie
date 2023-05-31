@@ -1,2 +1,2 @@
 # ReactNativeMovie
-#Sebastian pardo y Juanita Sarmiento
+# Sebastian Pardo y Juanita Sarmiento
